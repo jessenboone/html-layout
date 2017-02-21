@@ -1,0 +1,43 @@
+
+font {
+
+  color: white;
+}
+.col-1 {
+height: 100vh;
+width: calc(100% / 3);
+background-color: blue;
+float: left;
+}
+
+.col-2 {
+height: 100vh;
+width: calc(100% / 3);
+background-color: green;
+float: left;
+}
+
+.col-3 {
+height: 75vh;
+width: calc(100% / 3);
+background-color: yellow;
+float: left;
+}
+
+.col-4 {
+height: 25vh;
+width: calc(100% / 3);
+background-color: red;
+float: left;
+
+}
+
+h2 {
+  font-size: 30px;
+  color: white;
+  margin-top: 105px;
+  margin-right:15px;
+  margin-bottom: 15px;
+  margin-left: 200px;
+
+}
