@@ -1,0 +1,68 @@
+
+font {
+
+  color: white;
+}
+.box-blue1 {
+height: 110px;
+width: 110px;
+background-color: slateblue;
+border-box: 80px;
+
+
+}
+
+.box-white {
+height: 200px;
+width: full;
+background-color: white;
+
+}
+
+.box-blue {
+height: 130px;
+width: full;
+background-color: slateblue;
+
+}
+
+.box-green1 {
+height: 130px;
+width: full;
+background-color: lightseagreen;
+
+
+}
+
+.box-green2 {
+height: 130px;
+width: full;
+background-color: springgreen;
+
+
+}
+
+.box-green3 {
+height: 130px;
+width: full;
+background-color: yellowgreen;
+
+}
+
+h2 {
+  font-size: 24px;
+  color: black;
+  margin-top: 45px;
+  margin-right:525px;
+  margin-bottom: 55px;
+  margin-left: 525px;
+
+}
+
+header {
+  height: 130px;
+  width: full;
+  background-color: lightgray;
+  padding-top: 20px;
+  padding-left: 20px;
+}
